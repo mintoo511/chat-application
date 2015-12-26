@@ -1,0 +1,9 @@
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+c:\users\sony\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
